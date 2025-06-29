@@ -1,6 +1,7 @@
 # Título do Projeto: Processamento de imagens com HOG e KNN
 
 Link do respositório: https://github.com/ItaloF532/processamento_de_imagens
+Link do colab: https://colab.research.google.com/drive/19tDH5HXJZoRbRIL8eW1FMa1H0c2Cjafs?usp=sharing
 
 ## Equipe
 
