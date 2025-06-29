@@ -1,5 +1,7 @@
 # Título do Projeto: Processamento de imagens com HOG e KNN
 
+# Link do respositório: https://github.com/ItaloF532/processamento_de_imagens
+
 ## Equipe
 
 RA: 2538911 - Italo Francisco Magdalena
